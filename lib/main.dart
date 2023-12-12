@@ -166,7 +166,7 @@ class WhatsApp extends StatelessWidget {
                 Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
                   Text(
                     "سرج",
-                    style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold),
+                    style: TextStyle(height: 1,fontSize: 35, fontWeight: FontWeight.bold),
                   ),
                   Text(
                     'يا انستراكتور',
